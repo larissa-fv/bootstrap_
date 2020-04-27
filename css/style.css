@@ -1,0 +1,59 @@
+
+.navbar {
+    background-color: rgb(89, 97, 97);
+      ;
+}
+
+.quem-somos {
+    background-color: steelblue;
+}
+
+
+ .up {
+     padding-top: 80%;
+ }
+
+
+.letras {
+    font-family: cursive ;
+
+}
+
+
+.margin {
+    padding-bottom: 100px ;
+   
+}
+
+.parceiros {
+    background-color: rgb(189, 99 , 99);
+}
+
+.serviços {
+    background-color:slategray;
+
+}
+
+.marginm {
+    padding-top: 50px;
+}
+
+.produtos {
+    background-color:rgb(228, 228, 228) ;
+    
+}
+
+.meioo {
+    padding-bottom: 50px;
+    
+}
+
+.contato {
+    background-color: rgb(226, 172, 226);
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+    padding-bottom: 05px;
+}
